@@ -14,5 +14,11 @@ public class Demo
 	{
 		System.out.println("Demo");
 	}
+	public void Addtocart()
+	{
+		System.out.println("Add to cart");
+	}
+	
 }
+
 
