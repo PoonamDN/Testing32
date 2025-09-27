@@ -10,5 +10,9 @@ public class Demo
 	{
 		System.out.println("This is REG");
 	}
-	
+	public void login()
+	{
+		System.out.println("Demo");
+	}
 }
+
