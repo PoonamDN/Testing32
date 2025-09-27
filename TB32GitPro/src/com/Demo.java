@@ -6,4 +6,9 @@ public class Demo
 	{
 		System.out.println("This is Demo Class");
 	}
+	public void reg()
+	{
+		System.out.println("This is REG");
+	}
+	
 }
